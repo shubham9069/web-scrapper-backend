@@ -1,0 +1,9 @@
+requests
+Flask
+pymongo
+flask_pymongo
+pandas
+openpyxl
+bs4
+lxml
+selenium
